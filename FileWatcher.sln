@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcher", "FileWatcher\FileWatcher.csproj", "{B1325C62-ED9B-4AA1-8FC5-BF78B2849CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcherInterface", "FileWatcherInterface\FileWatcherInterface.csproj", "{8B5D5BF9-5102-4AAF-93C9-B4D8C3126220}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FileManagementSystemInstaller", "FileManagementSystemInstaller\FileManagementSystemInstaller.vdproj", "{36D7E677-A11A-4F46-B2D3-0DFC938CB94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1325C62-ED9B-4AA1-8FC5-BF78B2849CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1325C62-ED9B-4AA1-8FC5-BF78B2849CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1325C62-ED9B-4AA1-8FC5-BF78B2849CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1325C62-ED9B-4AA1-8FC5-BF78B2849CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5D5BF9-5102-4AAF-93C9-B4D8C3126220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5D5BF9-5102-4AAF-93C9-B4D8C3126220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5D5BF9-5102-4AAF-93C9-B4D8C3126220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5D5BF9-5102-4AAF-93C9-B4D8C3126220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D7E677-A11A-4F46-B2D3-0DFC938CB94B}.Debug|Any CPU.ActiveCfg = Debug
+		{36D7E677-A11A-4F46-B2D3-0DFC938CB94B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF55F898-2CEF-4C0A-A015-42DE2E582ADD}
+	EndGlobalSection
+EndGlobal

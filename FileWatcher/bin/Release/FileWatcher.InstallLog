@@ -1,0 +1,786 @@
+﻿Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Creating EventLog source File Management System in log Application...
+Rolling back assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Restoring event log to previous state for source File Management System.
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Warning: The source File Management System is not registered on the local machine.
+Service File Management System is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Creating EventLog source File Management System in log Application...
+Rolling back assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Restoring event log to previous state for source File Management System.
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Warning: The source File Management System is not registered on the local machine.
+Service File Management System is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Attempt to stop service File Management System.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Attempt to stop service File Management System.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Creating EventLog source File Management System in log Application...
+Rolling back assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Restoring event log to previous state for source File Management System.
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Warning: The source File Management System is not registered on the local machine.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Attempt to stop service File Management System.
+Installing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Installing service File Management System...
+Service File Management System has been successfully installed.
+Creating EventLog source File Management System in log Application...
+Committing assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Uninstalling assembly 'C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Attempt to stop service File Management System.
+Uninstalling assembly 'C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.InstallLog
+   assemblypath = C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.exe
+Removing EventLog source File Management System.
+Warning: The source File Management System is not registered on the local machine.
+Service File Management System is being removed from the system...
+Service File Management System was successfully removed from the system.
+Attempt to stop service File Management System.

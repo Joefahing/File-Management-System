@@ -1,0 +1,36 @@
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\bin\Release\FileWatcherInterface.exe.config
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\bin\Release\FileWatcherInterface.exe
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\bin\Release\FileWatcherInterface.pdb
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.ExportControl.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.FileWatcher.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.ImportFileControl.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.Properties.Resources.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.csproj.GenerateResource.Cache
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.exe
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.pdb
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.csproj.CoreCompileInputs.cache
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Release\FileWatcherInterface.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\bin\Release\FileWatcherInterface.exe.config
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\bin\Release\FileWatcherInterface.exe
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\bin\Release\FileWatcherInterface.pdb
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.ExportControl.resources
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.FileWatcher.resources
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.ImportFileControl.resources
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.Properties.Resources.resources
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.csproj.GenerateResource.cache
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.exe
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\bin\Release\FileWatcherInterface.exe.config
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\bin\Release\FileWatcherInterface.exe
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\bin\Release\FileWatcherInterface.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.ExportControl.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.FileWatcher.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.ImportFileControl.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.Properties.Resources.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.csproj.GenerateResource.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.csproj.CoreCompileInputs.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.exe
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Release\FileWatcherInterface.csprojAssemblyReference.cache

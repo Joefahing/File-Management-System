@@ -1,0 +1,26 @@
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe.config
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.ProjectInstaller.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.Cache
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.exe
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.pdb
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\bin\Debug\FileWatcher.exe.config
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\obj\Debug\FileWatcher.ProjectInstaller.resources
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.cache
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\obj\Debug\FileWatcher.exe
+C:\Users\Thinkpad\Desktop\FM4.0\FileWatcher\obj\Debug\FileWatcher.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Debug\FileWatcher.exe.config
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Debug\FileWatcher.exe
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Debug\FileWatcher.ProjectInstaller.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Debug\FileWatcher.csproj.GenerateResource.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Debug\FileWatcher.exe
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Debug\FileWatcher.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Debug\FileWatcher.csprojAssemblyReference.cache

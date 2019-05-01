@@ -1,0 +1,23 @@
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\bin\Debug\FileWatcherInterface.exe.config
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\bin\Debug\FileWatcherInterface.exe
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\bin\Debug\FileWatcherInterface.pdb
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.ExportControl.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.FileWatcher.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.ImportFileControl.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.Properties.Resources.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.csproj.GenerateResource.cache
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.csproj.CoreCompileInputs.cache
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.exe
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.pdb
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcherInterface\obj\Debug\FileWatcherInterface.csprojAssemblyReference.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\bin\Debug\FileWatcherInterface.exe.config
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\bin\Debug\FileWatcherInterface.exe
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\bin\Debug\FileWatcherInterface.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Debug\FileWatcherInterface.ExportControl.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Debug\FileWatcherInterface.FileWatcher.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Debug\FileWatcherInterface.ImportFileControl.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Debug\FileWatcherInterface.Properties.Resources.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Debug\FileWatcherInterface.csproj.GenerateResource.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Debug\FileWatcherInterface.csproj.CoreCompileInputs.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Debug\FileWatcherInterface.exe
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcherInterface\obj\Debug\FileWatcherInterface.pdb

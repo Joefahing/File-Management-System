@@ -1,0 +1,18 @@
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.pdb
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\bin\Release\FileWatcher.exe.config
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Release\FileWatcher.ProjectInstaller.resources
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Release\FileWatcher.csproj.GenerateResource.cache
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Release\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Release\FileWatcher.exe
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Release\FileWatcher.pdb
+C:\Users\Joefa\Documents\Visual Studio 2017\Projects\FileWatcher\FileWatcher\obj\Release\FileWatcher.csprojAssemblyReference.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.exe.config
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.exe
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\bin\Release\FileWatcher.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Release\FileWatcher.ProjectInstaller.resources
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Release\FileWatcher.csproj.GenerateResource.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Release\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Release\FileWatcher.exe
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Release\FileWatcher.pdb
+C:\Users\Joefa\Desktop\FM4.0\FM4.0\FileWatcher\obj\Release\FileWatcher.csprojAssemblyReference.cache
