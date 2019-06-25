@@ -4,8 +4,9 @@ A window only application
 ## Table of Content
 * [General Information](#general-information)
 * [Techologies](#techologies)
-* [Setup](#set-up)
+* [Setup](#setup)
 * [Future Improvement](#future-improvement)
+* [Demo](#demo)
 
 
 ## General Information
@@ -30,3 +31,7 @@ Simply go to setting -> system -> app and feature -> select FMS
 * Add functionality to run script for more complex task
 * Improve UI design
 * Reduce the use of text file
+
+## Demo
+![](https://i.ibb.co/vkGcFKz/demo.png)
+![](https://i.ibb.co/ZVzv6bb/demo2.png)
